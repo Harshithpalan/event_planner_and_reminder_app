@@ -1,4 +1,4 @@
-# 🌟 Event Planner Pro
+# 🌟 Event Planner 
 
 A modern, simplified Event Planner with a premium glassmorphism UI and real-time Firebase sync.
 
